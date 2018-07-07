@@ -7,3 +7,9 @@ A little bit of background: I have been involved in Machine Learning since the p
 **Today's Progress** : Initialised the repository to keep track of my 100 Days of ML journey
 
 **Thoughts** : Hope I can continue through the 100 days and do not stop in between :)
+
+## Day 1: July 7, 2018
+ 
+**Today's Progress** : Created a simple Linear Regression model using scikit-learn library, baby-steps! Also, scraped Kaggle for ML datasets.
+
+**Thoughts** : Maybe implement my own version of Linear Regression model in the future
