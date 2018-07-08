@@ -22,4 +22,4 @@ A little bit of background: I have been involved in Machine Learning since the p
 
 **Thoughts** : The official tensorflow tutorial, MNIST for ML Beginners is really good as everything is explained in deep. I'm thinking of implementing a Deep Neural Network MNIST classifier and a CNN MNIST classifier and compare their accuracy.
 
-**Link to work** : [MNIST Classifier](https://github.com/frextrite/100-Days-of-ML-Code/tree/master/Day%201)
+**Link to work** : [MNIST Classifier](https://github.com/frextrite/100-Days-of-ML-Code/tree/master/Day%202)
