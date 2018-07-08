@@ -14,6 +14,8 @@ A little bit of background: I have been involved in Machine Learning since the p
 
 **Thoughts** : Maybe implement my own version of Linear Regression model in the future
 
+**Link to work** : [Linear Regression Model](https://github.com/frextrite/100-Days-of-ML-Code/tree/master/Day%201)
+
 ## Day 2: July 8, 2018
  
 **Today's Progress** : Created a single layered Neural Network MNIST classifier using tensorflow. That's a combined dive into the world of tensorflow and neural networks!
