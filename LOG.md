@@ -23,3 +23,11 @@ A little bit of background: I have been involved in Machine Learning since the p
 **Thoughts** : The official tensorflow tutorial, MNIST for ML Beginners is really good as everything is explained in deep. I'm thinking of implementing a Deep Neural Network MNIST classifier and a CNN MNIST classifier and compare their accuracy.
 
 **Link to work** : [MNIST Classifier](https://github.com/frextrite/100-Days-of-ML-Code/tree/master/Day%202)
+
+## Day 3: July 9, 2018
+ 
+**Today's Progress** : Created a Deep Neural Network MNIST Classifier. Learned a few things about tensorflow and Neural Networks in general while constructing this model, details inside the work folder.
+
+**Thoughts** : Increasing the depth of a Neural Network and increasing the number of epochs increases the accuracy of the model but this tends to saturate at a particular limit. Further increase in both doesn't result in greater accuracies.
+
+**Link to work** : [MNIST Classifier Deep](https://github.com/frextrite/100-Days-of-ML-Code/tree/master/Day%203)
