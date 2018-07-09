@@ -5,3 +5,7 @@ Link to tutorial: https://www.tensorflow.org/versions/r1.2/get_started/mnist/beg
 
 Found a great article comparing accuracies of different MNIST Classifier models: https://www.cse.iitk.ac.in/users/khalidi/Docs/mnist.pdf
 
+Things to note about tensorflow:
+  - Always use tf.random_normal() instead of tf.zeros() to initialize weights and biases
+  - GradientDescentOptimizer is slow to converge, use AdamOptimizer instead
+
