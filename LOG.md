@@ -31,3 +31,10 @@ A little bit of background: I have been involved in Machine Learning since the p
 **Thoughts** : Increasing the depth of a Neural Network and increasing the number of epochs increases the accuracy of the model but this tends to saturate at a particular limit. Further increase in both doesn't result in greater accuracies.
 
 **Link to work** : [MNIST Classifier Deep](https://github.com/frextrite/100-Days-of-ML-Code/tree/master/Day%203)
+
+## Day 4: July 10, 2018
+ 
+**Today's Progress** : Studied about various optimization techniques, including Gradient Descent and Adam Optimizer.
+
+**Thoughts** : Implement my own various of these optimizing techniques maybe.
+
