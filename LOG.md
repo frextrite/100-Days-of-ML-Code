@@ -38,3 +38,11 @@ A little bit of background: I have been involved in Machine Learning since the p
 
 **Thoughts** : Implement my own various of these optimizing techniques maybe.
 
+## Day 5: July 11, 2018
+ 
+**Today's Progress** : Attempted first assignment of Week 1 of Coursera's Convolutional Neural Networks course where I implemented forward propagation from scratch using numpy.
+
+**Thoughts** : CNNs are fun! numpy is a powerful library!
+
+**Course Link** : [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/)
+
