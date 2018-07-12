@@ -46,3 +46,12 @@ A little bit of background: I have been involved in Machine Learning since the p
 
 **Course Link** : [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/)
 
+## Day 6: July 12, 2018
+ 
+**Today's Progress** : Fixed my Deep MNIST Classifier and implemented SGD correctly. Getting higher accuracy with the new model. Also watched an introduction video for tensorflow js.
+
+**Thoughts** : I think I've hit the accuracy ceiling with Deep Neaural Networks, time for CNN model.
+
+**Link to work** : [MNIST Classifier Deep](https://github.com/frextrite/100-Days-of-ML-Code/tree/master/Day%203)
+
+
