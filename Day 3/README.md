@@ -9,3 +9,5 @@ Things to note about tensorflow:
   - Always use tf.random_normal() instead of tf.zeros() to initialize weights and biases
   - GradientDescentOptimizer is slow to converge, use AdamOptimizer instead
 
+Update(July 12, 2018): Fixed code to use SGD correctly. Accuracy bumped up to 97.88%
+
