@@ -60,5 +60,7 @@ A little bit of background: I have been involved in Machine Learning since the p
 
 **Thoughts** : I will retrain the model with more epochs and hope for higher accuracy. Dropouts really help a lot.
 
+**Update** : Reran the model with updated dropout probabilities and got an increase in accuracy.
+
 **Link to work** : [MNIST CNN Classifier](https://github.com/frextrite/100-Days-of-ML-Code/tree/master/Day%207)
 
