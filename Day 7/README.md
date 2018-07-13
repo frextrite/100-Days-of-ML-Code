@@ -3,3 +3,5 @@ MNIST classifier using CNN, having 2 convolution and 2 max-pool layers with ReLU
 
 Link to tutorial: https://www.tensorflow.org/versions/r1.2/get_started/mnist/pros
 
+Update: Reran the model and I'm now getting an accuracy of 99.28%, which is its saturation limit.
+
