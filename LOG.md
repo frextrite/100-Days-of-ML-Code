@@ -54,4 +54,11 @@ A little bit of background: I have been involved in Machine Learning since the p
 
 **Link to work** : [MNIST Classifier Deep](https://github.com/frextrite/100-Days-of-ML-Code/tree/master/Day%203)
 
+## Day 7: July 13, 2018
+ 
+**Today's Progress** : Created Convolution Neural Network model for MNIST classifier. Learned a lot about CNNs in this process.
+
+**Thoughts** : I will retrain the model with more epochs and hope for higher accuracy. Dropouts really help a lot.
+
+**Link to work** : [MNIST CNN Classifier](https://github.com/frextrite/100-Days-of-ML-Code/tree/master/Day%207)
 
