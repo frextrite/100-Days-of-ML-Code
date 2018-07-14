@@ -64,3 +64,8 @@ A little bit of background: I have been involved in Machine Learning since the p
 
 **Link to work** : [MNIST CNN Classifier](https://github.com/frextrite/100-Days-of-ML-Code/tree/master/Day%207)
 
+## Day 8: July 14, 2018
+ 
+**Today's Progress** : Thought of creating a CNN classifier for classifying cats and dogs. PC ran out of memory loading the images.
+
+**Thoughts** : Find an optimized way of loading images or get more RAM.
