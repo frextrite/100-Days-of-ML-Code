@@ -69,3 +69,9 @@ A little bit of background: I have been involved in Machine Learning since the p
 **Today's Progress** : Thought of creating a CNN classifier for classifying cats and dogs. PC ran out of memory loading the images.
 
 **Thoughts** : Find an optimized way of loading images or get more RAM.
+
+## Day 9: July 15, 2018
+ 
+**Today's Progress** : Watched videos on how to load images into python and convert them into arrays. Also dived into tf.keras
+
+**Thoughts** : Use tf.keras for quicker model initialization.
