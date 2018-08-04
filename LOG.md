@@ -75,3 +75,13 @@ A little bit of background: I have been involved in Machine Learning since the p
 **Today's Progress** : Watched videos on how to load images into python and convert them into arrays. Also dived into tf.keras
 
 **Thoughts** : Use tf.keras for quicker model initialization.
+
+## Day 10: July 16, 2018
+ 
+**Today's Progress** : Going a bit theoretical for a few days.
+
+## Day 11: August 4, 2018
+ 
+**Today's Progress** :Read few articles and watched videos on RNN. Grasped the basic idea behind RNNs but still need to figure out its inner workings.
+
+**Thoughts** : Time to read papers/more articles related to RNN and its implementation.
