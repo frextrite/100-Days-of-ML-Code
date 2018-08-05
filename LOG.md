@@ -82,6 +82,10 @@ A little bit of background: I have been involved in Machine Learning since the p
 
 ## Day 11: August 4, 2018
  
-**Today's Progress** :Read few articles and watched videos on RNN. Grasped the basic idea behind RNNs but still need to figure out its inner workings.
+**Today's Progress** : Read few articles and watched videos on RNN. Grasped the basic idea behind RNNs but still need to figure out its inner workings.
 
 **Thoughts** : Time to read papers/more articles related to RNN and its implementation.
+
+## Day 12: August 5, 2018
+ 
+**Today's Progress** : Reading MSCOCO Dataset Paper. Read few more articles on RNN and NLP. Preping for a huge project coming up ahead.
