@@ -89,3 +89,9 @@ A little bit of background: I have been involved in Machine Learning since the p
 ## Day 12: August 5, 2018
  
 **Today's Progress** : Reading MSCOCO Dataset Paper. Read few more articles on RNN and NLP. Preping for a huge project coming up ahead.
+
+## Day 13: August 6, 2018
+ 
+**Today's Progress** : Read Show and Tell: A Neural Image Caption Generator paper. Finally cleaned up the code and uploaded my Dogs vs Cats CNN Classifier on GitHub, which I implemented during my off days.
+
+**Thoughts** : I will implement a Neural Image Caption Generator next. Before that I'll get my hands dirty on nltk and basic LSTM cell.
