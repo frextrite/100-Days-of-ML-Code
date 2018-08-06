@@ -95,3 +95,5 @@ A little bit of background: I have been involved in Machine Learning since the p
 **Today's Progress** : Read Show and Tell: A Neural Image Caption Generator paper. Finally cleaned up the code and uploaded my Dogs vs Cats CNN Classifier on GitHub, which I implemented during my off days.
 
 **Thoughts** : I will implement a Neural Image Caption Generator next. Before that I'll get my hands dirty on nltk and basic LSTM cell.
+
+**Link to work** : [Cats Dogs CNN Classifier](https://github.com/frextrite/CatsDogsClassifier)
