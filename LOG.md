@@ -97,3 +97,9 @@ A little bit of background: I have been involved in Machine Learning since the p
 **Thoughts** : I will implement a Neural Image Caption Generator next. Before that I'll get my hands dirty on nltk and basic LSTM cell.
 
 **Link to work** : [Cats Dogs CNN Classifier](https://github.com/frextrite/CatsDogsClassifier)
+
+## Day 14: August 7, 2018
+ 
+**Today's Progress** : Getting my hands dirty on nltk. Started work on a simple positive and negative sentence classifier.
+
+**Thoughts** : To complete an advanced project you first gotta build your basics.
