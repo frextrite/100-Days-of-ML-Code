@@ -103,3 +103,9 @@ A little bit of background: I have been involved in Machine Learning since the p
 **Today's Progress** : Getting my hands dirty on nltk. Started work on a simple positive and negative sentence classifier.
 
 **Thoughts** : To complete an advanced project you first gotta build your basics.
+
+## Day 15: August 8, 2018
+ 
+**Today's Progress** : Continuing building the pos neg classifier.
+
+**Thoughts** : Pre-processing data is challenging!
