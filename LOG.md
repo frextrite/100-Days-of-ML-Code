@@ -109,3 +109,10 @@ A little bit of background: I have been involved in Machine Learning since the p
 **Today's Progress** : Continuing building the pos neg classifier.
 
 **Thoughts** : Pre-processing data is challenging!
+
+## Day 16: August 9, 2018
+ 
+**Today's Progress** : Finally completed my pos neg classifier. Also this is my first keras implementation.
+
+**Thoughts** : Get more data when working on a Deep Neural Network!
+
