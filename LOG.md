@@ -116,3 +116,8 @@ A little bit of background: I have been involved in Machine Learning since the p
 
 **Thoughts** : Get more data when working on a Deep Neural Network!
 
+## Day 17: August 10, 2018
+ 
+**Today's Progress** : Watching Andrej Karpathy's lecture on Recurrent Neural Networks, Image Captioning and LSTM(Winter 2016). Learnt about vanishing and exploding gradient problem.
+
+**Link to work** : [CS231n Winter 2016: Lecture 10: Recurrent Neural Networks, Image Captioning, LSTM - Andrej Karpathy](https://youtu.be/yCC09vCHzF8)
