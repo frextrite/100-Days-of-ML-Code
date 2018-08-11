@@ -121,3 +121,9 @@ A little bit of background: I have been involved in Machine Learning since the p
 **Today's Progress** : Watching Andrej Karpathy's lecture on Recurrent Neural Networks, Image Captioning and LSTM(Winter 2016). Learnt about vanishing and exploding gradient problem.
 
 **Link to work** : [CS231n Winter 2016: Lecture 10: Recurrent Neural Networks, Image Captioning, LSTM - Andrej Karpathy](https://youtu.be/yCC09vCHzF8)
+
+## Day 18: August 11, 2018
+ 
+**Today's Progress** : Initialised Neural Image Caption respository on Github.
+
+**Link to work** : [Neural Image Caption](https://github.com/frextrite/Neural-Image-Caption)
