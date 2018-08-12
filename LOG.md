@@ -124,7 +124,7 @@ A little bit of background: I have been involved in Machine Learning since the p
 
 ## Day 18: August 11, 2018
  
-**Today's Progress** : Initialised Neural Image Caption respository on Github.
+**Today's Progress** : Initialised Neural Image Caption repository on Github.
 
 **Link to work** : [Neural Image Caption](https://github.com/frextrite/Neural-Image-Caption)
 
