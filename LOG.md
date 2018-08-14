@@ -141,3 +141,7 @@ A little bit of background: I have been involved in Machine Learning since the p
 **Thoughts** : Read more about LSTMs and RNNs. Find the best model which gives optimal results. Train on Flickr30k and if possible on MSCOCO dataset as well. Add comments and improve readability of the code.
 
 **Link to work** : [Neural Image Caption](https://github.com/frextrite/Neural-Image-Caption)
+
+## Day 21: August 14, 2018
+ 
+**Today's Progress** : Experimenting with different encoder decoder models(CNN RNN) that would give optimal results. Trained basic model on Flickr30k for 10 hours, results unsatisfactory.
