@@ -145,3 +145,7 @@ A little bit of background: I have been involved in Machine Learning since the p
 ## Day 21: August 14, 2018
  
 **Today's Progress** : Experimenting with different encoder decoder models(CNN RNN) that would give optimal results. Trained basic model on Flickr30k for 10 hours, results unsatisfactory.
+
+## Day 22: August 15, 2018
+ 
+**Today's Progress** : Training-tweaking models, hoping for better results, result negative.
