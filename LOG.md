@@ -149,3 +149,9 @@ A little bit of background: I have been involved in Machine Learning since the p
 ## Day 22: August 15, 2018
  
 **Today's Progress** : Training-tweaking models, hoping for better results, result negative.
+
+## Day 23: August 16, 2018
+ 
+**Today's Progress** : Re-trained my NIC model on Flickr30k dataset for 2 epochs(2 hours/epoch) and the model learnt to spell out a bunch of 'a's. Disaster!
+
+**Thoughts** : Train for more epochs.
