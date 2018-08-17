@@ -155,3 +155,7 @@ A little bit of background: I have been involved in Machine Learning since the p
 **Today's Progress** : Re-trained my NIC model on Flickr30k dataset for 2 epochs(2 hours/epoch) and the model learnt to spell out a bunch of 'a's. Disaster!
 
 **Thoughts** : Train for more epochs.
+
+## Day 24: August 17, 2018
+ 
+**Today's Progress** : Trained my NIC model on Flickr8k for 25 epochs. Skimmed through 'Where to put the Image in Image Caption Generator' paper to find which model would be the best(paper was too long). Watched a video on autoencoders.
