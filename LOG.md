@@ -159,3 +159,11 @@ A little bit of background: I have been involved in Machine Learning since the p
 ## Day 24: August 17, 2018
  
 **Today's Progress** : Trained my NIC model on Flickr8k for 25 epochs. Skimmed through 'Where to put the Image in Image Caption Generator' paper to find which model would be the best(paper was too long). Watched a video on autoencoders.
+
+## Day 25: August 18, 2018
+ 
+**Today's Progress** : Cleaned up Neural Image Caption's code and added comments for easier understanding. Read about sub sampling and negative sampling somewhere(it was too good but I lost the link!)
+
+**Thoughts** : Gonna take a break from this project and focus on something else.
+
+**Link to work** : [Neural Image Caption](https://github.com/frextrite/Neural-Image-Caption)
