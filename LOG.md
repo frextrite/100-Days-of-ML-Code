@@ -164,6 +164,8 @@ A little bit of background: I have been involved in Machine Learning since the p
  
 **Today's Progress** : Cleaned up Neural Image Caption's code and added comments for easier understanding. Read about sub sampling and negative sampling somewhere(it was too good but I lost the link!)
 
+Update: Found the link. I was reading an article on Medium hence I was confused as to why there was nothing related to it in my browser's history.
+
 **Thoughts** : Gonna take a break from this project and focus on something else.
 
 **Link to work** : [Neural Image Caption](https://github.com/frextrite/Neural-Image-Caption)
