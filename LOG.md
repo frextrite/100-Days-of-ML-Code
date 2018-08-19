@@ -169,3 +169,7 @@ Update: Found the link. I was reading an article on Medium hence I was confused 
 **Thoughts** : Gonna take a break from this project and focus on something else.
 
 **Link to work** : [Neural Image Caption](https://github.com/frextrite/Neural-Image-Caption)
+
+## Day 26: August 19, 2018
+ 
+**Today's Progress** : Break.
