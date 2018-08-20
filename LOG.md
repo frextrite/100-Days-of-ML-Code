@@ -173,3 +173,7 @@ Update: Found the link. I was reading an article on Medium hence I was confused 
 ## Day 26: August 19, 2018
  
 **Today's Progress** : Break.
+
+## Day 27: August 20, 2018
+ 
+**Today's Progress** : Watched a couple of Siraj's video on Machine Learning and refreshed my memory.
