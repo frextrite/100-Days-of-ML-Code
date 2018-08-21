@@ -177,3 +177,9 @@ Update: Found the link. I was reading an article on Medium hence I was confused 
 ## Day 27: August 20, 2018
  
 **Today's Progress** : Watched a couple of Siraj's video on Machine Learning and refreshed my memory.
+
+## Day 28: August 21, 2018
+ 
+**Today's Progress** : Started with auto-encoders. Attended Big Data seminar held at my college. Got an insight into the world of AI and Big Data in Healthcare.
+
+**Thoughts** : Auto-encoders look cool!
