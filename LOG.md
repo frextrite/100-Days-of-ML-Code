@@ -183,3 +183,11 @@ Update: Found the link. I was reading an article on Medium hence I was confused 
 **Today's Progress** : Started with auto-encoders. Attended Big Data seminar held at my college. Got an insight into the world of AI and Big Data in Healthcare.
 
 **Thoughts** : Auto-encoders look cool!
+
+## Day 29: August 22, 2018
+ 
+**Today's Progress** : Created an MNIST denoiser in keras using auto encoders.
+
+**Thoughts** : Read articles on auto encoders.
+
+**Link to work** : [MNIST autoencoder](https://github.com/frextrite/MNIST-autoencoder)
