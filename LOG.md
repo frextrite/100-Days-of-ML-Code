@@ -191,3 +191,9 @@ Update: Found the link. I was reading an article on Medium hence I was confused 
 **Thoughts** : Read articles on auto encoders.
 
 **Link to work** : [MNIST autoencoder](https://github.com/frextrite/MNIST-autoencoder)
+
+## Day 30: August 23, 2018
+ 
+**Today's Progress** : Watched a few videos on autoencoders. They aren't lossless hence do not have much of practical utility.
+
+**Thoughts** : Implement a small autoencoders project in the future. But for that gotta find a practical use of them too!
