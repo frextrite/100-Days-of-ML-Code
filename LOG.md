@@ -197,3 +197,7 @@ Update: Found the link. I was reading an article on Medium hence I was confused 
 **Today's Progress** : Watched a few videos on autoencoders. They aren't lossless hence do not have much of practical utility.
 
 **Thoughts** : Implement a small autoencoders project in the future. But for that gotta find a practical use of them too!
+
+## Day 31: August 24, 2018
+ 
+**Today's Progress** : Setting up pytorch on my development environment. Most of the research models(by Google, NVIDIA, Microsoft, Facebook) are built using pytorch hence a bit of knowledge on pytorch is a must.
