@@ -201,3 +201,9 @@ Update: Found the link. I was reading an article on Medium hence I was confused 
 ## Day 31: August 24, 2018
  
 **Today's Progress** : Setting up pytorch on my development environment. Most of the research models(by Google, NVIDIA, Microsoft, Facebook) are built using pytorch hence a bit of knowledge on pytorch is a must.
+
+## Day 32: August 25, 2018
+ 
+**Today's Progress** : Started learning about seq2seq models.
+
+**Thoughts** : Next project is gonna be a translator.
