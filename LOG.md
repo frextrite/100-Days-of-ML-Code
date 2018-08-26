@@ -207,3 +207,15 @@ Update: Found the link. I was reading an article on Medium hence I was confused 
 **Today's Progress** : Started learning about seq2seq models.
 
 **Thoughts** : Next project is gonna be a translator.
+
+## Day 33: August 26, 2018
+ 
+**Today's Progress** : Read 'Sequence to Sequence Learning with Neural Networks' paper and jotted down the important points. Initialised Neural Machine Translation repository on Github.
+
+**Thoughts** : This project seems a bit challenging.
+
+**Link to paper** : [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
+
+**Link to work** : [Neural Machine Translation](https://github.com/frextrite/Neural-Machine-Translation)
+
+I'm one-third way through the challenge, yay!
