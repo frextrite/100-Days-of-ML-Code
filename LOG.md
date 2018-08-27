@@ -219,3 +219,7 @@ Update: Found the link. I was reading an article on Medium hence I was confused 
 **Link to work** : [Neural Machine Translation](https://github.com/frextrite/Neural-Machine-Translation)
 
 I'm one-third way through the challenge, yay!
+
+## Day 34: August 27, 2018
+ 
+**Today's Progress** : Reading texts related to seq2seq learning.
