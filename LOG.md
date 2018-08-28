@@ -223,3 +223,7 @@ I'm one-third way through the challenge, yay!
 ## Day 34: August 27, 2018
  
 **Today's Progress** : Reading texts related to seq2seq learning.
+
+## Day 35: August 28, 2018
+ 
+**Today's Progress** : College takes a toll on me. Read an article on Machine Translation and how to go about it.
