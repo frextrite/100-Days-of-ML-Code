@@ -227,3 +227,9 @@ I'm one-third way through the challenge, yay!
 ## Day 35: August 28, 2018
  
 **Today's Progress** : College takes a toll on me. Read an article on Machine Translation and how to go about it.
+
+## Day 36: August 29, 2018
+ 
+**Today's Progress** : Import and playing with training data for Neural Machine Translation project.
+
+**Thoughts** : I've no idea how I will implement this project but I love challenges :)
