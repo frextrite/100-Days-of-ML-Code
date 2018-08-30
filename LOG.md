@@ -233,3 +233,9 @@ I'm one-third way through the challenge, yay!
 **Today's Progress** : Import and playing with training data for Neural Machine Translation project.
 
 **Thoughts** : I've no idea how I will implement this project but I love challenges :)
+
+## Day 37: August 30, 2018
+ 
+**Today's Progress** : Updating Neural Machine Learning jupyter notebook with proper documentation so that it will be easier for anyone to understand the model as well as the paper. Re-reading and summarising the paper.
+
+**Thoughts** : Teaching is the best way to learn.
