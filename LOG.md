@@ -239,3 +239,9 @@ I'm one-third way through the challenge, yay!
 **Today's Progress** : Updating Neural Machine Learning jupyter notebook with proper documentation so that it will be easier for anyone to understand the model as well as the paper. Re-reading and summarising the paper.
 
 **Thoughts** : Teaching is the best way to learn.
+
+## Day 38: August 31, 2018
+ 
+**Today's Progress** : Watched OpenAI-5 video by Siraj. Watched video on Quadruped Locomotion patterns by Two Minute Papers.
+
+**Thoughts** : Quadruped Locomotion Videos have my mind blown. This is the first time I saw something like this.
