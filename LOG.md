@@ -244,4 +244,8 @@ I'm one-third way through the challenge, yay!
  
 **Today's Progress** : Watched OpenAI-5 video by Siraj. Watched video on Quadruped Locomotion patterns by Two Minute Papers.
 
-**Thoughts** : Quadruped Locomotion Videos have my mind blown. This is the first time I saw something like this.
+**Thoughts** : Quadruped Locomotion Videos have my mind blown. This is the first time I saw something like this.    
+
+## Day 39: September 1, 2018
+ 
+**Today's Progress** : Preprocessing the training data for NMT project. Hit some roadblocks.
