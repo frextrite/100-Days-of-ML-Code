@@ -249,3 +249,8 @@ I'm one-third way through the challenge, yay!
 ## Day 39: September 1, 2018
  
 **Today's Progress** : Preprocessing the training data for NMT project. Hit some roadblocks.
+
+
+## Day 40: September 2, 2018
+ 
+**Today's Progress** : Changed the NMT dataset I was using since the original dataset site was down. Preprocessing input.
