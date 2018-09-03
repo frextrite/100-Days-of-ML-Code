@@ -254,3 +254,9 @@ I'm one-third way through the challenge, yay!
 ## Day 40: September 2, 2018
  
 **Today's Progress** : Changed the NMT dataset I was using since the original dataset site was down. Preprocessing input.
+
+## Day 41: September 3, 2018
+ 
+**Today's Progress** : Continuing working on NMT.
+
+**Thoughts** : Long weekend = low productivity
