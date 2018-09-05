@@ -260,3 +260,7 @@ I'm one-third way through the challenge, yay!
 **Today's Progress** : Continuing working on NMT.
 
 **Thoughts** : Long weekend = low productivity
+
+## Day 42: September 5, 2018
+ 
+**Today's Progress** : Continuing working on NMT.
