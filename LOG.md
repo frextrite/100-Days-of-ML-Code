@@ -264,3 +264,7 @@ I'm one-third way through the challenge, yay!
 ## Day 42: September 5, 2018
  
 **Today's Progress** : Continuing working on NMT.
+
+## Day 43: September 6, 2018
+ 
+**Today's Progress** : Finding the perfect course structure to teach ML from the very basic.
