@@ -268,3 +268,7 @@ I'm one-third way through the challenge, yay!
 ## Day 43: September 6, 2018
  
 **Today's Progress** : Finding the perfect course structure to teach ML from the very basic.
+
+## Day 44: September 7, 2018
+ 
+**Today's Progress** : Continued building my Neural Machine Translation project. Fixing previous errors.
