@@ -272,3 +272,9 @@ I'm one-third way through the challenge, yay!
 ## Day 44: September 7, 2018
  
 **Today's Progress** : Continued building my Neural Machine Translation project. Fixing previous errors.
+
+## Day 45: September 8, 2018
+ 
+**Today's Progress** : Finished creating Dictionary and Encoding class for Neural Machine Translation.
+
+**Thoughts** : Gonna continue with NMT after a few days.
