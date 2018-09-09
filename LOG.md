@@ -278,3 +278,9 @@ I'm one-third way through the challenge, yay!
 **Today's Progress** : Finished creating Dictionary and Encoding class for Neural Machine Translation.
 
 **Thoughts** : Gonna continue with NMT after a few days.
+
+## Day 46: September 9, 2018
+ 
+**Today's Progress** : Created a basic tensorflow model and a bit Deep CNN model for CIFAR-10 dataset. Learnt about kNN and implemented a kNN model, using sklearn library as well as from scratch, on MNIST dataset.
+
+**Thoughts** : I always thought kNN was a tough algorithm(FOTU), turns out its the easiest ML algorithm I've ever seen. Implement transfer learning on COFAR-10.
