@@ -288,3 +288,9 @@ I'm one-third way through the challenge, yay!
 ## Day 47: September 10, 2018
  
 **Today's Progress** : Getting started with Reinforcement Learning. Watched Introduction to Move 37 video.
+
+## Day 48: September 11, 2018
+ 
+**Today's Progress** : Debugged my friends tensorflow CNN model. 
+
+**Thoughts** : Seems simple but it took hours.
