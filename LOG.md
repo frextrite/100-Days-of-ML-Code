@@ -294,3 +294,9 @@ I'm one-third way through the challenge, yay!
 **Today's Progress** : Debugged my friends tensorflow CNN model. 
 
 **Thoughts** : Seems simple but it took hours.
+
+## Day 49: September 12, 2018
+ 
+**Today's Progress** : Started with Denoising Dirty Documents problem on Kaggle.
+
+**Thoughts** : Hopefully I can complete this in 1-2 days.
